@@ -1,0 +1,181 @@
+.tahoma-font {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+.deal-title {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+
+.deal-details {
+  font-family: Arial;
+  font-style: italic;
+  color: red;
+}
+
+.html-course-header {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 0px; 
+}
+
+.html-subtitle {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: gray;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 27px;
+}
+
+.html-description {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 26px;
+  margin-top: 30px;
+  width: 450px;
+  line-height: 35px;
+  margin-bottom: 0px;
+}
+
+.html-course-button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-size: 26px;
+  background-color: green;
+  border: none;
+  border-radius: 8px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.apple-biz-header {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.apple-biz-subtitle {
+  font-family: Arial;
+  text-align: center;
+  font-size: 20px;
+}
+
+.apple-biz-link {
+  font-family: Arial;
+  text-align: center;
+  font-size: 20px;
+  color: rgb(12, 97, 224);
+}
+
+
+.macbook-header {
+  font-family: Arial;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+  color: rgb(223, 112, 21);
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+.macbook-label {
+  font-family: Arial;
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 12px;
+  margin-bottom: 0px;
+  
+}
+
+.macbook-tagline {
+  font-family: Arial;
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 12px;
+  margin-bottom: 0px;
+}
+
+.macbook-price {
+  font-family: Arial;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 12px;
+  margin-bottom: 0px;
+}
+
+.macbook-buy-button {
+  background-color: rgb(0, 119, 255);
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 12px;
+  margin-bottom: 0px;
+  margin-left: 310px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  border-radius: 25px;
+  cursor:pointer;
+}
+
+.stock-price {
+  font-family: Arial;
+  font-size: 36px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+.usd {
+  color: rgb(104, 104, 104);
+  font-size: 18px;
+  margin-left: 2px;
+}
+
+.stock-perf-today {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  color: green;
+}
+
+.stock-perf-close {
+  font-family: Arial;
+  color: rgb(104, 104, 104);
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.close-percent {
+  color: rgb(226, 10, 10);
+}
+
+.freecodecamp-header {
+  font-family: Arial;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+.fcc-handle {
+  color: rgb(104, 104, 104);
+  font-weight: normal;
+}
+
+.fcc-user {
+  color: rgb(0, 162, 255);
+  cursor: pointer;
+}
