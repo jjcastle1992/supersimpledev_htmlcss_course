@@ -41,10 +41,10 @@ p {
 }
 
 .shop-link {
-  cursor: pointer;
-    margin-left: 0px;
-  }
+cursor: pointer;
+  margin-left: 0px;
+}
 
-  .shop-link:hover {
-    text-decoration: underline;
-  }
+.shop-link:hover {
+  text-decoration: underline;
+}
