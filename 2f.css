@@ -1,0 +1,33 @@
+.product_title {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.product_price {
+  font-weight: bold;
+  color: rgb(0, 118, 0);
+  margin-bottom: 30px;
+}
+
+.product_delivery {
+  font-size: 18px;
+}
+
+.add_to_cart_button {
+  color: black;
+  background-color: rgb(255, 216, 20);
+  height: 32px;
+  width: 130px;
+  border-radius: 16px;
+  border: none;
+  margin-right: 10px;
+}
+
+.buy_now_button {
+  color: black;
+  background-color: rgb(255, 164, 28);
+  height: 32px;
+  width: 130px;
+  border-radius: 16px;
+  border: none;
+}
