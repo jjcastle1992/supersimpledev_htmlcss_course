@@ -3,4 +3,5 @@
 
 #unignore what we want to track
 !*.html
+!*.css
 !.gitignore
