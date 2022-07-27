@@ -1,0 +1,20 @@
+p {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.model-name {
+  font-weight: bold;
+  font-size: 70px;
+  margin-bottom: 20px;
+}
+
+.order-call {
+  font-size: 30px;
+}
+
+.touchless-deliver {
+  text-decoration: underline;
+}
