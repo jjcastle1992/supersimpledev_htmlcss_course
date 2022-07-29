@@ -14,13 +14,3 @@
   width: 200px;
   border-radius: 100%;
 }
-
-.basic-search {
-  margin-top: 25px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  border-radius: 5px;
-  border: 1px solid gray;
-}
