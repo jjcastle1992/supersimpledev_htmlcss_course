@@ -87,4 +87,54 @@ p {
   padding-right: 122px;
   border: none;
   border-radius: 10px;
+  cursor: pointer;
+}
+
+.uber-title {
+  display: block;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-size: 60px;
+}
+
+.ride-info-fields {
+  display: block;
+  margin-top: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 250px;
+  font-size: 22px;
+  border: none;
+  background-color: rgb(238, 238, 238);
+}
+
+.uber-request-button, .uber-schedule-button {
+  font-size: 22px;
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.uber-request-button {
+  color: white;
+  background-color: black;
+  margin-right: 30px;
+  transition: 0.15s;
+}
+
+.uber-request-button:hover {
+  background-color: rgb(41, 41, 41);
+}
+
+.uber-schedule-button {
+  transition: 0.15s;
+}
+
+.uber-schedule-button:hover {
+  background-color: rgb(214, 213, 213);
 }
