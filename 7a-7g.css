@@ -1,3 +1,15 @@
+p {
+  font-family: Arial;
+}
+
+input {
+  font-family: Arial;
+}
+
+button {
+  font-family: Arial;
+}
+
 .golf-r {
   width: 200px;
   border-radius: 15px;
@@ -34,4 +46,36 @@
   border-radius: 30px;
   border: none;
   box-shadow: 0px 0px 10px rgba(128, 128, 128, 0.582);
+}
+
+.email-field {
+  color: gray;
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+
+.email-input {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 115px;
+  padding-right: 115px;
+  border-radius: 7px;
+  border: solid 2px gray;
+}
+
+.linked-in-button {
+  background-color: rgb(0, 119, 255);
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 140px;
+  padding-right: 140px;
+  border-radius: 30px;
 }
