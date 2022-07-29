@@ -1,0 +1,13 @@
+p {
+  font-family: Arial;
+}
+
+.name-field, .email-field {
+  display: block;
+  margin-top: 8px;
+  margin-right: 0px;
+  width: 200px;
+  font-size: 18px;
+  border: solid 1px gray;
+  border-radius: 4px;
+}
