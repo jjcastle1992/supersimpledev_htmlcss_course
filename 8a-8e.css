@@ -24,3 +24,21 @@ p {
   padding-left: 8px;
   padding-right: 8px;
 }
+
+.google-logo {
+  display: block;
+  margin-top: 50px;
+  margin-left: 160px;
+}
+
+.google-search {
+  font-size: 18px;
+  margin-top: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 300px;
+  border-radius: 30px;
+  border: none;
+  box-shadow: 0px 0px 9px rgba(128, 128, 128, 0.3);
+}
