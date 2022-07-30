@@ -2,4 +2,13 @@
   background-color: red;
   height: 100px;
   width: 100px;
+  display: inline-block;
+}
+
+.green-circle {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  border-radius: 100%;
 }
