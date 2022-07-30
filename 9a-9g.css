@@ -35,3 +35,26 @@ p {
   padding-right: 8px;
   cursor: pointer;
 }
+
+.youtube-music {
+  font-family: Arial;
+  margin-top: 20px;
+  background-color: rgb(43, 43, 43);
+  width: 400px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.youtube-music-title {
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.youtube-music-desc {
+  font-size: 18px;
+  color: rgb(165, 164, 164);
+}
