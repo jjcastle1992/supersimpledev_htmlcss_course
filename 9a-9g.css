@@ -58,3 +58,47 @@ p {
   font-size: 18px;
   color: rgb(165, 164, 164);
 }
+
+.tweet-div {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgb(134, 134, 134);
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.avatar {
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+  border-radius: 100%;
+  vertical-align: middle;
+}
+
+.tweet {
+  margin-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  padding-right: 40px;
+  font-size: 28px;
+  border: none;
+  vertical-align: middle;
+}
+
+.tweet-button {
+  vertical-align: middle;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(0, 162, 255);
+  border: none;
+  border-radius: 40px;
+}
