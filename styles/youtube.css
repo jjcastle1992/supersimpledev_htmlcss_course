@@ -20,6 +20,17 @@ p {
   margin-top: 15px;
 }
 
+.thumbnail-row {
+  margin-bottom: 12px;
+  background-color: gray;
+}
+
+.video-details {
+  display: inline-block;
+  width: 240px;
+  background-color: gray;
+}
+
 .video-title {
   margin-bottom: 12px;
   font-size: 14px;
@@ -40,11 +51,7 @@ p {
   display: inline-block;
   width: 50px;
   vertical-align: top;
-}
-
-.video-details {
-  display: inline-block;
-  width: 200px;
+  background-color: gray;
 }
 
 .profile-pic {
@@ -52,6 +59,3 @@ p {
   border-radius: 100%;
 }
 
-.thumbnail-row {
-  margin-bottom: 12px;
-}
