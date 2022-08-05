@@ -7,9 +7,6 @@ p {
 .thumbnail {
   width: 100%;
 }
-.search-bar {
-  display: block;
-}
 
 .video-grid {
   display: grid;
