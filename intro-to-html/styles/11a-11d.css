@@ -25,6 +25,13 @@
   row-gap: 10px;
 }
 
+.friend-grid {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+}
+
 p {
   font-family: Arial;
   margin-top: 0px;
@@ -32,7 +39,6 @@ p {
 }
 
 .single-friend-box {
-  display: inline-block;
   margin-top: 30px;
   margin-bottom: 30px;
   margin-left: 0px;
@@ -58,7 +64,8 @@ p {
 }
 
 .mutual-friend-count {
-  display: inline-block;
+  display: grid;
+  grid-template-columns: 40px 1fr;
   font-size: 16px;
   color: gray;
   margin-bottom: 10px;
@@ -84,7 +91,6 @@ p {
 }
 
 .follower-thumbnail {
-  display: inline-block;
   overflow: hidden;
   position: relative;
   height: 33px;
@@ -99,8 +105,5 @@ p {
 }
 
 .mutual-text {
-  display: inline-block;
-  width: 70%;
-  vertical-align: top;
   padding-top: 10px;
 }
