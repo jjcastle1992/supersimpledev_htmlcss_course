@@ -12,3 +12,24 @@
   background-color: lightpink;
   width: 75px;
 }
+
+.flexbox2 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+
+.blue-cell50 {
+  background-color: lightblue;
+  width: 50px;
+}
+
+.pink-cell2 {
+  background-color: lightpink;
+  flex: 1;
+}
+
+.blue-cell75 {
+  background-color: lightblue;
+  width: 75px;
+}
