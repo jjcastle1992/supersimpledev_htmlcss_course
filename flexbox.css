@@ -1,0 +1,96 @@
+body {
+  padding-bottom: 1000px;
+}
+
+.demo-flexbox {
+  display: flex;
+  flex-direction: row;
+}
+
+.blue-cell {
+  background-color: lightblue;
+}
+
+.pink-cell {
+  background-color: lightpink;
+}
+
+.demo-flexbox2 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+
+.blue-cell2 {
+  background-color: lightblue;
+  width: 100px;
+}
+
+.pink-cell2 {
+  background-color: lightpink;
+  flex: 1;
+}
+
+.demo-flexbox3 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+
+.blue-cell3 {
+  background-color: lightblue;
+  width: 100px;
+}
+
+.pink-cell3 {
+  background-color: lightpink;
+  flex: 1;
+}
+.blue-cellf2 {
+  background-color: lightblue;
+  flex: 2;
+}
+
+.demo-flexbox4 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  height: 70px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+  justify-content: center;
+}
+
+.blue-cell4 {
+  background-color: lightblue;
+  width: 100px;
+}
+
+.pink-cell4 {
+  background-color: lightpink;
+  width: 100px;
+}
+
+.demo-flexbox5 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  height: 70px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+  justify-content: space-between;
+}
+
+.demo-flexbox6 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  height: 70px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+  justify-content: space-between;
+  align-items: center;
+}
