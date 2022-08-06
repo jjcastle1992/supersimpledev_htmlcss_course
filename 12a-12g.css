@@ -93,3 +93,55 @@ body {
   padding-left: 15px;
   padding-right: 15px;
 }
+
+.search-flexbox {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(147, 84, 230);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  align-items: center;
+}
+
+.home {
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+  width: 150px;
+}
+
+.search{
+  flex: 1;
+  max-width: 500px;
+}
+
+.searchbar {
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-radius: 25px;
+  border: none;
+}
+
+.download{
+  width: 120px;
+  margin-left: 70px;
+}
+
+.download-button {
+  width: 100%;
+  background-color: rgb(147, 84, 230);
+  color: white;
+  font-size: 18px;
+  border: white solid 1px;
+  border-radius: 3px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
