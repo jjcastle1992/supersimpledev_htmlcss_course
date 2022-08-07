@@ -90,3 +90,12 @@
   height: 100%;
   margin-left: -10px;
 }
+
+.email-info {
+  flex: 1;
+}
+
+.email-header {
+  display: flex;
+  justify-content: space-between;
+}
