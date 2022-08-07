@@ -54,3 +54,39 @@
   background-color: black;
   color: white;
 }
+
+.gmail-flexbox {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 30px;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+  font-family: Arial;
+}
+
+.mailbox-header {
+  color: gray;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.email-preview {
+  display: flex;
+  align-items: center;
+}
+
+.sender-profile-pic {
+  object-position: relative;
+  overflow: hidden;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+.profile-thumbnail {
+  height: 100%;
+  margin-left: -10px;
+}
