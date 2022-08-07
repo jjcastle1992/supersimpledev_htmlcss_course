@@ -13,7 +13,6 @@
 }
 
 .item1 {
-  display: flex;
   background-color: black;
   color: white;
 }
@@ -22,4 +21,36 @@
   background-color: lightblue;
   width: 200px;
   flex: 2;
+}
+
+.flexbox2 {
+  margin-top: 30px;
+  display: flex;
+  height: 50px;
+}
+
+.lightpink2 {
+  background-color: lightpink;
+  width: 100px;
+}
+
+.lightblue2 {
+  background-color: lightblue;
+  width: 200px;
+  flex: 1;
+}
+
+.row1 {
+
+}
+
+.row2 {
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.item2 {
+  background-color: black;
+  color: white;
 }
