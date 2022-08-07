@@ -93,9 +93,26 @@
 
 .email-info {
   flex: 1;
+  margin-left: 10px;
 }
 
-.email-header {
-  display: flex;
-  justify-content: space-between;
+.email-sender {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.email-subject {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.email-body-preview {
+  font-size: 14px;
+  font-weight: 500;
+  color: gray;
+}
+
+.timestamp {
+  margin-bottom: 30px;
+  color: gray;
 }
