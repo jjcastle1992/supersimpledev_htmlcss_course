@@ -117,3 +117,78 @@
   margin-bottom: 30px;
   color: gray;
 }
+
+.twitter-post {
+  margin-top: 50px;
+  display: flex;
+  font-family: Arial;
+}
+
+.user-image {
+  object-position: relative;
+  overflow: hidden;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+}
+
+.user-thumbnail {
+  height: 100%;
+  margin-left: -10px;
+}
+
+.post-content {
+  flex: 1;
+  margin-left: 15px;
+}
+
+.user-header {
+  display: flex;
+}
+
+.username {
+  font-weight: 700;
+  margin-right: 5px;
+}
+
+.twitter-handle {
+  color: gray;
+}
+
+.message-contents {
+  max-width: 500px;
+  line-height: 25px;
+}
+
+.media-preview {
+  margin-top: 15px;
+  border: solid 2px rgb(200, 200, 200);
+  border-radius: 20px;
+  height: 100px;
+  display: flex;
+  max-width: 500px;
+}
+
+.preview-image {
+  flex: 1;
+  background-color: rgb(200, 200, 200);
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+
+.video-details {
+  flex: 3;
+  line-height: 25px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.video-url {
+  display: block;
+  color: gray;
+  flex: 1;
+}
+
+.video-description {
+  display: block;
+}
