@@ -1,5 +1,6 @@
 body {
   height: 3000px;
+  font-family: Arial;
 }
 
 .scroll-text {
@@ -27,4 +28,44 @@ body {
   bottom: 0px;
   right: 0px;
   left: 0px;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0px;
+  right: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal {
+  background-color: white;
+  height: 240px;
+  width: 730px;
+  border-radius: 10px;
+}
+
+.modal-title {
+  font-weight: 700;
+  font-size: 48px;
+  padding-top: 30px;
+  padding-bottom: 25px;
+  padding-left: 30px;
+}
+
+.modal-body {
+  padding-left: 30px;
+  font-size: 32px;
+}
+
+.modal-button {
+  margin-left: 30px;
+  margin-top: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 28px;
 }
