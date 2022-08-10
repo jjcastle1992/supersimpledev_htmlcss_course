@@ -19,3 +19,12 @@ body {
   bottom: 0px;
   width: 100px;
 }
+
+.blackout {
+  background-color: black;
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
