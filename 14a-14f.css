@@ -143,3 +143,45 @@ body {
   border-radius: 10px;
   cursor: pointer;
 }
+
+.server-sidebar {
+  background-color: rgb(61, 61, 61);
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  width: 400px;
+}
+
+.server-window {
+  background-color: rgb(41, 41, 41);
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  width: 100px;
+}
+
+.spacer {
+  margin-top: 20px;
+}
+
+.server-icon {
+  position: relative;
+  overflow: hidden;
+  height: 75px;
+  width: 75px;
+  border-radius: 37.5px;
+  margin-top: 10px;
+  margin-left: 10px;
+  display: flex;
+}
+
+.server-thumbnail {
+  height: 100%;
+  margin-left: -18px;
+}
+
+.channel-window {
+  position: fixed;
+}
