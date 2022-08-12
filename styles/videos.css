@@ -11,6 +11,23 @@
 
 .thumbnail-row {
   margin-bottom: 12px;
+  position: relative;
+}
+
+.video-time {
+  position: absolute;
+  color: white;
+  background-color: black;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  padding-right: 4px;
+  font-family: Roboto, Arial;
+  font-size: 12px;
+  font-weight: 500;
+  right: 5px;
+  bottom: 8px;
+  border-radius: 2px;
 }
 
 .video-info-grid {
