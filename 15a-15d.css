@@ -9,8 +9,8 @@ body {
   font-weight: 700;
   font-size: 32px;
   position: absolute;
-  left: -18px;
-  top: -28px;
+  left: -25px;
+  top: -25px;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 22px;
@@ -27,4 +27,19 @@ body {
   position: fixed;
   bottom: 15px;
   right: 15px;
+}
+
+.video-length {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 550;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
 }
